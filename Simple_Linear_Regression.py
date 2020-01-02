@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+#Code from Jupyter Notebook
 
 # In[1]:
 
